@@ -1,16 +1,13 @@
-### Hi there 👋
+# 제목 1
+## 제목 2
+### 제목 3
+#### 제목 4
+##### 제목 5
 
-<!--
-**kwj7554/kwj7554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`num = 100` 
+* 항목1
+* 항목2
+* 항목3
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
