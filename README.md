@@ -5,6 +5,8 @@
 *	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ## Git Hub Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=kwj7554&theme=highcontrast&show_icons=true)
+![github stats](https://github-readme-repo_card.vercel.app/api?username=kwj7554&theme=highcontrast&show_icons=true)
+
 #### 제목 4
 ##### 제목 5
 
